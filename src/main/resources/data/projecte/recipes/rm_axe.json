@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "projecte:rm_axe"
+  },
+  "pattern": [
+    "RR",
+    "RA",
+    " M"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "projecte:dm_axe"
+    },
+    "R": {
+      "item": "projecte:red_matter"
+    },
+    "M": {
+      "item": "projecte:dark_matter"
+    }
+  }
+}

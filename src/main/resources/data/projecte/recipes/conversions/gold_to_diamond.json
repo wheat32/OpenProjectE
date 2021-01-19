@@ -1,0 +1,23 @@
+{
+  "result": {
+    "item": "minecraft:diamond"
+  },
+  "ingredients": [
+    {
+      "item": "projecte:philosophers_stone"
+    },
+    {
+      "tag": "forge:ingots/gold"
+    },
+    {
+      "tag": "forge:ingots/gold"
+    },
+    {
+      "tag": "forge:ingots/gold"
+    },
+    {
+      "tag": "forge:ingots/gold"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

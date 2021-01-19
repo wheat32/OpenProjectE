@@ -1,0 +1,18 @@
+{
+  "result": {
+    "item": "projecte:rm_furnace"
+  },
+  "pattern": [
+    " R ",
+    "RFR"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "R": {
+      "item": "projecte:red_matter_block"
+    },
+    "F": {
+      "item": "projecte:dm_furnace"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "projecte:relay_mk3"
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ORO",
+    "OAO",
+    "OOO"
+  ],
+  "key": {
+    "A": {
+      "item": "projecte:relay_mk2"
+    },
+    "O": {
+      "tag": "forge:obsidian"
+    },
+    "R": {
+      "item": "projecte:red_matter"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "result": {
+    "item": "projecte:mobius_fuel"
+  },
+  "ingredients": [
+    {
+      "item": "projecte:philosophers_stone"
+    },
+    {
+      "item": "projecte:alchemical_coal"
+    },
+    {
+      "item": "projecte:alchemical_coal"
+    },
+    {
+      "item": "projecte:alchemical_coal"
+    },
+    {
+      "item": "projecte:alchemical_coal"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

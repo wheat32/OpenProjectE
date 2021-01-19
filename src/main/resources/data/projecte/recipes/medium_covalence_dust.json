@@ -1,0 +1,15 @@
+{
+  "result": {
+    "item": "projecte:medium_covalence_dust",
+    "count": 40
+  },
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "tag": "forge:dusts/redstone"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "projecte:rm_pick"
+  },
+  "pattern": [
+    "RRR",
+    " P ",
+    " M "
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "projecte:dm_pick"
+    },
+    "R": {
+      "item": "projecte:red_matter"
+    },
+    "M": {
+      "item": "projecte:dark_matter"
+    }
+  }
+}
